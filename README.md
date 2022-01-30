@@ -27,7 +27,10 @@ Once installation part is done, follow instructions
 * "npm start"
 
 
-<iframe src="https://drive.google.com/file/d/1LqB13uP0gT_LmkVBMSNZrjMZ3XYL7D9y/preview" width="640" height="480"></iframe>
+
+https://user-images.githubusercontent.com/90013822/151715226-0881556c-ec40-43cb-a6ce-8447abb07668.mp4
+
+
 
 Here is the link for the video:
 https://drive.google.com/file/d/1LqB13uP0gT_LmkVBMSNZrjMZ3XYL7D9y/view
